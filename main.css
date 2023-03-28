@@ -69,3 +69,13 @@ body {
     background: white;
     border: none;
 }
+
+#product-overview {
+    background: url("https://i.ibb.co/9t8v1Jc/freedom.jpg");
+    width: 100%;
+    height: 528px;
+    padding: 10px;   
+}
+
+
+
